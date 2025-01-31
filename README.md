@@ -17,6 +17,7 @@ Run the following command to install the required libraries:
 ```bash
 pip install openai pydub speechrecognition
 ```
+Additionally, make sure you have **FFmpeg** installed on your system
 
 ## Usage 🚀
 1. Place your audio file (e.g., `good_morning.wav`) in the project folder.
