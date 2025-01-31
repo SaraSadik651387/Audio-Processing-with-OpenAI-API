@@ -38,7 +38,7 @@ pip install openai pydub speechrecognition
 ## Errors & Troubleshooting 🔍
 ### Issue Faced ⚠️
 I encountered an error due to exceeding the OpenAI API quota:
-![Error Screenshot](image_link_here)
+![Error Screenshot](<img width="718" alt="Image" src="https://github.com/user-attachments/assets/3029c91e-f696-4c0e-9efa-66d32eb3d1b5" />)
 
 ### Possible Solutions ✅
 - Check OpenAI's quota and billing settings.
